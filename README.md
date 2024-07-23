@@ -17,5 +17,4 @@ You have to Explore and copy emojis with ease! Select a category to view a colle
 
 ## Deployment Link:
 
-* thru' GitHub Page  :   [https://kamalesh2034.github.io/Countrys_and_Weather/](https://kamalesh2034.github.io/Countrys_and_Weather/)
-* thru' Netlify :		  [ https://restcountryandweather.netlify.app/](https://restcountryandweather.netlify.app/)
+* thru' GitHub Page  :   [https://kamalesh2034.github.io/emoji_to_clipboard/](https://kamalesh2034.github.io/emoji_to_clipboard/)
