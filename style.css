@@ -1,0 +1,13 @@
+body{
+    background: rgb(128,103,255);
+    background: linear-gradient(84deg, rgba(128,103,255,0.37316176470588236) 42%, rgba(88,128,128,0.3843662464985994) 82%);
+   }
+
+h1{
+    background-color: azure;
+    font-family:'Times New Roman', Times, serif;
+    padding: 9px;
+    font-weight: 300px;
+    text-shadow: 1px 1px rgb(84, 254, 115);
+    box-shadow: 2px 2px 2px 3px rgb(136, 130, 130);
+}

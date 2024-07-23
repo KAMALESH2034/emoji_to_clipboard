@@ -20,6 +20,7 @@ async function fetchData(category){
            
             smilyspan.onclick = ()=>{
                 navigator.clipboard.writeText(element.htmlCode[0]).then(function (){
+                    alert('Emoji copied to clipboard!');
                 }).catch(function(error){
                     console.log(error);
                 });
@@ -33,7 +34,9 @@ async function fetchData(category){
         const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
       
     }catch(error){
-        console.log(error)
+        console.log(error);
+        holder.innerHTML = "<p>Failed to load emojis. Please try again later.</p>";
+  
     }
 }
 
